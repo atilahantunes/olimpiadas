@@ -1,4 +1,3 @@
-```markdown
 ## **Procurando por seu atleta favorito? Nós te ajudamos!** 
 
 **O que essa aplicação faz?**
@@ -39,4 +38,3 @@ Se tiver alguma dúvida, pode abrir uma issue aqui no GitHub.
 **Vamos juntos torcer pelo Brasil!** 🇧🇷
 
 **#AtletasDoBrasil #DesenvolvimentoWeb #JavaScript #HTML #CSS**
-```
