@@ -1,4 +1,4 @@
-## **Procurando por seu atleta favorito? Nós te ajudamos!** 
+## **Procurando por seu atleta favorito? Nós te ajudamos! - ImersãoDev com Google Gemini** 
 
 **O que essa aplicação faz?**
 
